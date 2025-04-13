@@ -79,5 +79,9 @@ namespace Crypto_Investment_Management
                 }
             }
         }
+        public void Add_Invest()
+        {
+
+        }
     }
 }
