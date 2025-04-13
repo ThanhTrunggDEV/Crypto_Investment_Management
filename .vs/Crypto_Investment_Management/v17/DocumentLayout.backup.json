@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|d:\\coding space\\c#\\crypto_management\\crypto_investment_management\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\Coin.cs",
+              "RelativeDocumentMoniker": "Coin.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\Coin.cs",
+              "RelativeToolTip": "Coin.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:38:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:58:13.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\Crypto.cs",
+              "RelativeDocumentMoniker": "Crypto.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\Crypto.cs",
+              "RelativeToolTip": "Crypto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:13:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB_Connect.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\DB_Connect.cs",
+              "RelativeDocumentMoniker": "DB_Connect.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\DB_Connect.cs",
+              "RelativeToolTip": "DB_Connect.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:11:31.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:02:51.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
