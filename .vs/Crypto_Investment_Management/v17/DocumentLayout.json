@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|d:\\coding space\\c#\\crypto_management\\crypto_investment_management\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|d:\\coding space\\c#\\crypto_management\\crypto_investment_management\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|D:\\Coding Space\\C#\\Crypto_Management\\Crypto_Investment_Management\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC1EDDE-4FC0-426F-9473-706CE92FCF23}|Crypto_Investment_Management.csproj|solutionrelative:crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Crypto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:13:48.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:13:48.847Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "DB_Connect.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwEYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:11:31.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:11:31.525Z"
             },
             {
               "$type": "Document",
